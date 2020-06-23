@@ -10,5 +10,5 @@
 
 ![Texas Derby 2016](https://github.com/gradyrobbins/DA2_Capstone/blob/master/rainsoccerHoustonVsDallas2016.png "Texas Derby 2016")
 
-### ![Tableau](https://public.tableau.com/profile/grady.robbins#! "Tableau public dashboard"/
+### Tableau public dashboard:
 https://public.tableau.com/profile/grady.robbins#!/
