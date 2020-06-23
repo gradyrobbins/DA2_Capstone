@@ -12,3 +12,6 @@
 
 ### Tableau public dashboard:
 https://public.tableau.com/profile/grady.robbins#!/
+
+### Presentation & Slide Deck
+https://www.icloud.com/keynote-live/sc:0dnynV_3g57b3BP7rrU3sunUhn2-AUm9eOV1UhYGPvI7nuvDMn0cCvl3G_8GPA8jfrw
