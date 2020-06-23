@@ -4,7 +4,7 @@
 ### Nashville Software School June 2020
 
 ### Tools used: Excel, Tableau
-### Data Source:  Publicly available soccer data for Major League Soccer and publicly available weather data at wunderground.com
+### Data Sources:  Publicly available soccer data for Major League Soccer and publicly available weather data at wunderground.com
 
 
 
