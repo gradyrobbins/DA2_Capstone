@@ -8,7 +8,7 @@
 
 
 
-![Texas Derby 2016](https://github.com/gradyrobbins/DA2_Capstone/blob/master/rainsoccerHoustonVsDallas2016.png "Texas Derby 2016")
+![Texas Derby 2016](https://github.com/gradyrobbins/DA2_Capstone/blob/master/images/rainsoccerHoustonVsDallas2016.png)
 
 ### Tableau public dashboard:
 https://public.tableau.com/profile/grady.robbins#!/
